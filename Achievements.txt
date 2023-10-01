@@ -11,3 +11,15 @@ https://www.hackthebox.com/achievement/machine/1670388/472
 https://www.hackthebox.com/achievement/machine/1670388/396
 6. Preignition
 https://www.hackthebox.com/achievement/machine/1670388/397
+7. Mongod
+https://www.hackthebox.com/achievement/machine/1670388/501
+8. Synced
+https://www.hackthebox.com/achievement/machine/1670388/515
+9. Appointment
+https://www.hackthebox.com/achievement/machine/1670388/402
+10. Sequel
+https://www.hackthebox.com/achievement/machine/1670388/403
+11. Crocodile
+https://www.hackthebox.com/achievement/machine/1670388/404
+12. Responder
+https://www.hackthebox.com/achievement/machine/1670388/461
