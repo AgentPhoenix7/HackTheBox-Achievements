@@ -9,3 +9,5 @@ https://www.hackthebox.com/achievement/machine/1670388/395
 https://www.hackthebox.com/achievement/machine/1670388/472
 5. Explosion
 https://www.hackthebox.com/achievement/machine/1670388/396
+6. Preignition
+https://www.hackthebox.com/achievement/machine/1670388/397
