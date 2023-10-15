@@ -3,3 +3,9 @@
 https://www.hackthebox.com/achievement/machine/1670388/556
 2. Sau
 https://www.hackthebox.com/achievement/machine/1670388/551
+3. CozyHosting
+https://www.hackthebox.com/achievement/machine/1670388/559
+4. Analytics
+https://www.hackthebox.com/achievement/machine/1670388/569
+5. Topology
+https://www.hackthebox.com/achievement/machine/1670388/546
