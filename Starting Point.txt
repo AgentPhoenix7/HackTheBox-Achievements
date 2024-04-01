@@ -33,3 +33,5 @@ https://www.hackthebox.com/achievement/machine/1670388/449
 https://www.hackthebox.com/achievement/machine/1670388/520
 17. Pennyworth
 https://www.hackthebox.com/achievement/machine/1670388/406
+18. Tactics
+https://www.hackthebox.com/achievement/machine/1670388/407
