@@ -29,3 +29,5 @@ https://www.hackthebox.com/achievement/machine/1670388/489
 https://www.hackthebox.com/achievement/machine/1670388/405
 15. Bike
 https://www.hackthebox.com/achievement/machine/1670388/449
+16. Funnel
+https://www.hackthebox.com/achievement/machine/1670388/520
