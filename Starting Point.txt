@@ -37,3 +37,5 @@ https://www.hackthebox.com/achievement/machine/1670388/406
 https://www.hackthebox.com/achievement/machine/1670388/407
 19. Archetype
 https://www.hackthebox.com/achievement/machine/1670388/287
+20. Oopsie
+https://www.hackthebox.com/achievement/machine/1670388/288
