@@ -35,3 +35,5 @@ https://www.hackthebox.com/achievement/machine/1670388/520
 https://www.hackthebox.com/achievement/machine/1670388/406
 18. Tactics
 https://www.hackthebox.com/achievement/machine/1670388/407
+19. Archetype
+https://www.hackthebox.com/achievement/machine/1670388/287
