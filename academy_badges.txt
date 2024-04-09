@@ -1,4 +1,6 @@
-1. Academician
-https://academy.hackthebox.com/achievement/badge/f2fa0356-f5b0-11ee-b18d-bea50ffe6cb4
-2. Unwavering User
+1. Unwavering User
 https://academy.hackthebox.com/achievement/badge/7e84f38f-f5b0-11ee-b18d-bea50ffe6cb4
+2. Academician
+https://academy.hackthebox.com/achievement/badge/f2fa0356-f5b0-11ee-b18d-bea50ffe6cb4
+3. Philomath
+https://academy.hackthebox.com/achievement/badge/91175399-f693-11ee-b18d-bea50ffe6cb4
