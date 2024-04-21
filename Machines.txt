@@ -9,3 +9,5 @@ https://www.hackthebox.com/achievement/machine/1670388/559
 https://www.hackthebox.com/achievement/machine/1670388/569
 5. Topology
 https://www.hackthebox.com/achievement/machine/1670388/546
+6. Lame
+https://www.hackthebox.com/achievement/machine/1670388/1
