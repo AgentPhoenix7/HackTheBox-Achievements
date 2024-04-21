@@ -45,3 +45,7 @@ https://www.hackthebox.com/achievement/machine/1670388/289
 https://www.hackthebox.com/achievement/machine/1670388/441
 23. Included
 https://www.hackthebox.com/achievement/machine/1670388/292
+24. Markup
+https://www.hackthebox.com/achievement/machine/1670388/293
+25. Base
+https://www.hackthebox.com/achievement/machine/1670388/479
