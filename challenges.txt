@@ -1,2 +1,4 @@
 1. Find The Easy Pass
 https://www.hackthebox.com/achievement/challenge/1670388/5
+2. Weak RSA
+https://www.hackthebox.com/achievement/challenge/1670388/6
