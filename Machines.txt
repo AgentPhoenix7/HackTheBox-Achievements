@@ -13,3 +13,5 @@ https://www.hackthebox.com/achievement/machine/1670388/546
 https://www.hackthebox.com/achievement/machine/1670388/1
 7. Jerry
 https://www.hackthebox.com/achievement/machine/1670388/144
+8. Netmon
+https://www.hackthebox.com/achievement/machine/1670388/177
