@@ -4,3 +4,5 @@ https://academy.hackthebox.com/achievement/badge/7e84f38f-f5b0-11ee-b18d-bea50ff
 https://academy.hackthebox.com/achievement/badge/f2fa0356-f5b0-11ee-b18d-bea50ffe6cb4
 3. Philomath
 https://academy.hackthebox.com/achievement/badge/91175399-f693-11ee-b18d-bea50ffe6cb4
+4. Constant Champion
+https://academy.hackthebox.com/achievement/badge/0e6f90e1-088c-11ef-b18d-bea50ffe6cb4
