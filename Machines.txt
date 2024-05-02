@@ -11,3 +11,5 @@ https://www.hackthebox.com/achievement/machine/1670388/569
 https://www.hackthebox.com/achievement/machine/1670388/546
 6. Lame
 https://www.hackthebox.com/achievement/machine/1670388/1
+7. Jerry
+https://www.hackthebox.com/achievement/machine/1670388/144
