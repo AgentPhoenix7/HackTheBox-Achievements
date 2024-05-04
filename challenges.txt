@@ -2,3 +2,5 @@
 https://www.hackthebox.com/achievement/challenge/1670388/5
 2. Weak RSA
 https://www.hackthebox.com/achievement/challenge/1670388/6
+3. You know 0xDiablos
+https://www.hackthebox.com/achievement/challenge/1670388/106
