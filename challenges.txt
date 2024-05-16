@@ -4,3 +4,5 @@ https://www.hackthebox.com/achievement/challenge/1670388/5
 https://www.hackthebox.com/achievement/challenge/1670388/6
 3. You know 0xDiablos
 https://www.hackthebox.com/achievement/challenge/1670388/106
+4. Under Construction
+https://www.hackthebox.com/achievement/challenge/1670388/111
