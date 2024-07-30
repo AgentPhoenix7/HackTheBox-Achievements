@@ -2,3 +2,5 @@
 https://academy.hackthebox.com/achievement/1254750/15
 2. Learning Process
 https://academy.hackthebox.com/achievement/1254750/9
+3. Linux Fundamentals
+https://academy.hackthebox.com/achievement/1254750/18
