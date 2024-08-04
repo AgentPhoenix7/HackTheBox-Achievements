@@ -6,3 +6,7 @@ https://www.hackthebox.com/achievement/challenge/1670388/6
 https://www.hackthebox.com/achievement/challenge/1670388/106
 4. Under Construction
 https://www.hackthebox.com/achievement/challenge/1670388/111
+5. looking glass
+https://www.hackthebox.com/achievement/challenge/1670388/177
+6. sanitize
+https://www.hackthebox.com/achievement/challenge/1670388/178
