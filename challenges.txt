@@ -12,5 +12,7 @@ https://www.hackthebox.com/achievement/challenge/1670388/177
 https://www.hackthebox.com/achievement/challenge/1670388/178
 7. baby auth
 https://www.hackthebox.com/achievement/challenge/1670388/179
-baby nginxatsu
+8. baby nginxatsu
 https://www.hackthebox.com/achievement/challenge/1670388/180
+9. baby WAFfles
+https://www.hackthebox.com/achievement/challenge/1670388/181
