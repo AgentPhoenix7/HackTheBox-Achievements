@@ -19,3 +19,5 @@ https://www.hackthebox.com/achievement/machine/1670388/177
 https://www.hackthebox.com/achievement/machine/1670388/51
 10. GreenHorn
 https://www.hackthebox.com/achievement/machine/1670388/617
+11. BoardLight
+https://www.hackthebox.com/achievement/machine/1670388/603
