@@ -17,3 +17,5 @@ https://www.hackthebox.com/achievement/machine/1670388/144
 https://www.hackthebox.com/achievement/machine/1670388/177
 9. Blue
 https://www.hackthebox.com/achievement/machine/1670388/51
+10. GreenHorn
+https://www.hackthebox.com/achievement/machine/1670388/617
