@@ -25,3 +25,5 @@ https://www.hackthebox.com/achievement/machine/1670388/603
 https://www.hackthebox.com/achievement/machine/1670388/613
 13. BountyHunter
 https://www.hackthebox.com/achievement/machine/1670388/359
+14. Remote
+https://www.hackthebox.com/achievement/machine/1670388/234
