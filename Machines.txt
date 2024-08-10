@@ -27,3 +27,5 @@ https://www.hackthebox.com/achievement/machine/1670388/613
 https://www.hackthebox.com/achievement/machine/1670388/359
 14. Remote
 https://www.hackthebox.com/achievement/machine/1670388/234
+15. GoodGames
+https://www.hackthebox.com/achievement/machine/1670388/446
