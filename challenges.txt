@@ -28,3 +28,5 @@ https://www.hackthebox.com/achievement/challenge/1670388/185
 https://www.hackthebox.com/achievement/challenge/1670388/186
 15. Regularity
 https://www.hackthebox.com/achievement/challenge/1670388/706
+16. Money Flowz
+https://www.hackthebox.com/achievement/challenge/1670388/123
