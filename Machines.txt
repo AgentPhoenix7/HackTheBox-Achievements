@@ -33,3 +33,5 @@ https://www.hackthebox.com/achievement/machine/1670388/446
 https://www.hackthebox.com/achievement/machine/1670388/131
 17. Active
 https://www.hackthebox.com/achievement/machine/1670388/148
+18. Sea
+https://www.hackthebox.com/achievement/machine/1670388/620
