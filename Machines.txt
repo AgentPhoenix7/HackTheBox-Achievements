@@ -35,3 +35,5 @@ https://www.hackthebox.com/achievement/machine/1670388/131
 https://www.hackthebox.com/achievement/machine/1670388/148
 18. Sea
 https://www.hackthebox.com/achievement/machine/1670388/620
+19. Resource
+https://www.hackthebox.com/achievement/machine/1670388/619
