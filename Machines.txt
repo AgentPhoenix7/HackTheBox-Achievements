@@ -37,3 +37,5 @@ https://www.hackthebox.com/achievement/machine/1670388/148
 https://www.hackthebox.com/achievement/machine/1670388/620
 19. Resource
 https://www.hackthebox.com/achievement/machine/1670388/619
+20. Editorial
+https://www.hackthebox.com/achievement/machine/1670388/608
