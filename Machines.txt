@@ -39,3 +39,5 @@ https://www.hackthebox.com/achievement/machine/1670388/620
 https://www.hackthebox.com/achievement/machine/1670388/619
 20. Editorial
 https://www.hackthebox.com/achievement/machine/1670388/608
+21. Lantern
+https://www.hackthebox.com/achievement/machine/1670388/621
