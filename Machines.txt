@@ -41,3 +41,5 @@ https://www.hackthebox.com/achievement/machine/1670388/619
 https://www.hackthebox.com/achievement/machine/1670388/608
 21. Lantern
 https://www.hackthebox.com/achievement/machine/1670388/621
+22. MonitorsThree
+https://www.hackthebox.com/achievement/machine/1670388/622
