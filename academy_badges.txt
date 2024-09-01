@@ -10,3 +10,5 @@ https://academy.hackthebox.com/achievement/badge/0e6f90e1-088c-11ef-b18d-bea50ff
 https://academy.hackthebox.com/achievement/badge/7f96884a-4e7c-11ef-864f-bea50ffe6cb4
 6. Crawl, walk, run
 https://academy.hackthebox.com/achievement/badge/688f4c9a-54b5-11ef-864f-bea50ffe6cb4
+7. Everything is connected
+https://academy.hackthebox.com/achievement/badge/68b2115a-6829-11ef-864f-bea50ffe6cb4
