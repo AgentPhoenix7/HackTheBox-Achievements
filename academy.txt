@@ -6,3 +6,5 @@ https://academy.hackthebox.com/achievement/1254750/9
 https://academy.hackthebox.com/achievement/1254750/18
 4. Windows Fundamentals
 https://academy.hackthebox.com/achievement/1254750/49
+5. Introduction to Networking
+https://academy.hackthebox.com/achievement/1254750/34
