@@ -43,3 +43,5 @@ https://www.hackthebox.com/achievement/machine/1670388/608
 https://www.hackthebox.com/achievement/machine/1670388/621
 22. MonitorsThree
 https://www.hackthebox.com/achievement/machine/1670388/622
+23. Sightless
+https://www.hackthebox.com/achievement/machine/1670388/624
