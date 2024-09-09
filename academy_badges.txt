@@ -12,3 +12,5 @@ https://academy.hackthebox.com/achievement/badge/7f96884a-4e7c-11ef-864f-bea50ff
 https://academy.hackthebox.com/achievement/badge/688f4c9a-54b5-11ef-864f-bea50ffe6cb4
 7. Everything is connected
 https://academy.hackthebox.com/achievement/badge/68b2115a-6829-11ef-864f-bea50ffe6cb4
+8. Developer
+https://academy.hackthebox.com/achievement/badge/ce573415-6e69-11ef-864f-bea50ffe6cb4
