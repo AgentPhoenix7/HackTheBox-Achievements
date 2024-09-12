@@ -10,3 +10,5 @@ https://academy.hackthebox.com/achievement/1254750/49
 https://academy.hackthebox.com/achievement/1254750/34
 6. Introduction to Web Applications
 https://academy.hackthebox.com/achievement/1254750/75
+7. Web Requests
+https://academy.hackthebox.com/achievement/1254750/35
