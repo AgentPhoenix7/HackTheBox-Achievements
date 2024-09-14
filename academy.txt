@@ -12,3 +12,5 @@ https://academy.hackthebox.com/achievement/1254750/34
 https://academy.hackthebox.com/achievement/1254750/75
 7. Web Requests
 https://academy.hackthebox.com/achievement/1254750/35
+8. JavaScript Deobfuscation
+https://academy.hackthebox.com/achievement/1254750/41
