@@ -47,3 +47,5 @@ https://www.hackthebox.com/achievement/machine/1670388/622
 https://www.hackthebox.com/achievement/machine/1670388/624
 24. Caption
 https://www.hackthebox.com/achievement/machine/1670388/625
+25. Cicada
+https://www.hackthebox.com/achievement/machine/1670388/627
