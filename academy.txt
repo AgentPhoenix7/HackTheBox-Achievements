@@ -14,3 +14,5 @@ https://academy.hackthebox.com/achievement/1254750/75
 https://academy.hackthebox.com/achievement/1254750/35
 8. JavaScript Deobfuscation
 https://academy.hackthebox.com/achievement/1254750/41
+9. Introduction to Active Directory
+https://academy.hackthebox.com/achievement/1254750/74
