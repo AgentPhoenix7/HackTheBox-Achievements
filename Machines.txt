@@ -49,3 +49,5 @@ https://www.hackthebox.com/achievement/machine/1670388/624
 https://www.hackthebox.com/achievement/machine/1670388/625
 25. Cicada
 https://www.hackthebox.com/achievement/machine/1670388/627
+26. Nibbles
+https://www.hackthebox.com/achievement/machine/1670388/121
