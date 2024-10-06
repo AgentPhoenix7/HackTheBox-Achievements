@@ -16,3 +16,5 @@ https://academy.hackthebox.com/achievement/1254750/35
 https://academy.hackthebox.com/achievement/1254750/41
 9. Introduction to Active Directory
 https://academy.hackthebox.com/achievement/1254750/74
+10. Getting Started
+https://academy.hackthebox.com/achievement/1254750/77
