@@ -20,3 +20,5 @@ https://academy.hackthebox.com/achievement/badge/34d71c57-7125-11ef-864f-bea50ff
 https://academy.hackthebox.com/achievement/badge/132e3352-72a8-11ef-864f-bea50ffe6cb4
 11. Your white belt training begins
 https://academy.hackthebox.com/achievement/badge/f053a432-7fde-11ef-864f-bea50ffe6cb4
+12. Your first battle
+https://academy.hackthebox.com/achievement/badge/b609fdbd-83d1-11ef-864f-bea50ffe6cb4
