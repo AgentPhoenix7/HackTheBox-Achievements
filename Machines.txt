@@ -51,3 +51,5 @@ https://www.hackthebox.com/achievement/machine/1670388/625
 https://www.hackthebox.com/achievement/machine/1670388/627
 26. Nibbles
 https://www.hackthebox.com/achievement/machine/1670388/121
+27. Yummy
+https://www.hackthebox.com/achievement/machine/1670388/628
