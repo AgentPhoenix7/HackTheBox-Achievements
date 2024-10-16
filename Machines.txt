@@ -57,3 +57,5 @@ https://www.hackthebox.com/achievement/machine/1670388/628
 https://www.hackthebox.com/achievement/machine/1670388/630
 29. Legacy
 https://www.hackthebox.com/achievement/machine/1670388/2
+30. Cap
+https://www.hackthebox.com/achievement/machine/1670388/351
