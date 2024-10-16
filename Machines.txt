@@ -55,3 +55,5 @@ https://www.hackthebox.com/achievement/machine/1670388/121
 https://www.hackthebox.com/achievement/machine/1670388/628
 28. Instant
 https://www.hackthebox.com/achievement/machine/1670388/630
+29. Legacy
+https://www.hackthebox.com/achievement/machine/1670388/2
