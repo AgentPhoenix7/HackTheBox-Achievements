@@ -61,3 +61,5 @@ https://www.hackthebox.com/achievement/machine/1670388/2
 https://www.hackthebox.com/achievement/machine/1670388/351
 31. Knife
 https://www.hackthebox.com/achievement/machine/1670388/347
+32. Wifinetic
+https://www.hackthebox.com/achievement/machine/1670388/563
