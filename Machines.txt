@@ -65,3 +65,5 @@ https://www.hackthebox.com/achievement/machine/1670388/347
 https://www.hackthebox.com/achievement/machine/1670388/563
 33. Bashed
 https://www.hackthebox.com/achievement/machine/1670388/118
+34. Return
+https://www.hackthebox.com/achievement/machine/1670388/401
