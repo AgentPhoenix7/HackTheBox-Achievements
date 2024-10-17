@@ -63,3 +63,5 @@ https://www.hackthebox.com/achievement/machine/1670388/351
 https://www.hackthebox.com/achievement/machine/1670388/347
 32. Wifinetic
 https://www.hackthebox.com/achievement/machine/1670388/563
+33. Bashed
+https://www.hackthebox.com/achievement/machine/1670388/118
