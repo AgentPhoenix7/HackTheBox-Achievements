@@ -69,3 +69,5 @@ https://www.hackthebox.com/achievement/machine/1670388/118
 https://www.hackthebox.com/achievement/machine/1670388/401
 35. Broker
 https://www.hackthebox.com/achievement/machine/1670388/578
+36. Chemistry
+https://www.hackthebox.com/achievement/machine/1670388/631
